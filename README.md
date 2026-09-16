@@ -16,7 +16,7 @@ alt="Yuchen Zhou"
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-SeRendizc-1A1B27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeRendizc) [![Email](https://img.shields.io/badge/Email-serendizc%40gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serendizc@gmail.com) [![Location](https://img.shields.io/badge/Shenzhen_%C2%B7_Hong_Kong-9D7CD8?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-SeRendizc-1A1B27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeRendizc) [![Email](https://img.shields.io/badge/Email-zhouyuchen%40connect.hku.hk-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhouyuchen@connect.hku.hk) [![Location](https://img.shields.io/badge/Shenzhen_%C2%B7_Hong_Kong-9D7CD8?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br />
 
